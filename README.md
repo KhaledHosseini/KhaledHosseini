@@ -1,4 +1,4 @@
-# Blog posts
+![Blog Posts](files/blog_posts.png)
 <!-- BLOG-POST-LIST:START -->
 - [Data structures and algorithms in depth: C++, Swift, Python, Java, C#, JavaScript.](https://dev.to/khaledhosseini/data-structures-and-algorithms-for-multi-language-programmers-c-swift-python-java-c-javascript-alp)
 - [Master typescript types in 7 minutes.](https://dev.to/khaledhosseini/master-typescript-types-in-7-minutes-4pnd)
